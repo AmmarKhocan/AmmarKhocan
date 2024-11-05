@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="center">Frontend Developer Enthusiast</h3>
+<h3 align="center">Frontend Web Developer Enthusiast</h3>
 
 ###
 
